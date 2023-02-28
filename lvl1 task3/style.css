@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: relative;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: url(bg.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  h1 {
+    margin-top: 3px;
+  }
+  
+  .input-container {
+    font-size: large;
+    margin-top: 20px;
+    color: rgb(7, 5, 7);
+  }
+  
+  .radio-container {
+    margin-top: 10px;
+  }
+  
+  #convert-btn {
+    margin-top: 20px;
+    background-color: rgb(43, 226, 46);
+  }
+  
+  .output-container {
+    color: rgb(6, 6, 1);
+    margin-top: 20px;
+  }
